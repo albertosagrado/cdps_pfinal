@@ -1,8 +1,8 @@
 
 127.0.0.1  localhost.localdomain   localhost
 127.0.1.1  s1
-10.1.2.11	www.server.cdpsfy.es
-10.1.1.1	www.tracks.cdpsfy.es
+10.1.3.11	www.cdpsgram-server.es
+10.1.2.1	www.cdpsgram-photos.es
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
